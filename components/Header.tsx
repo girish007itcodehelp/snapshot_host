@@ -69,6 +69,7 @@ const Header: React.FC = () => {
             </Text>
           </Box>
           <Box flexGrow={1} maxW="550px">
+            {/* input group */}
             <InputGroup>
               <Input type="text" placeholder="Search here..." />
               <InputRightAddon children={<FiSearch />} />
