@@ -1,4 +1,4 @@
-import { baseStyle, extendTheme, ThemeOverride, withDefaultVariant, type ThemeConfig } from "@chakra-ui/react";
+import { extendTheme, ThemeOverride, withDefaultVariant, type ThemeConfig } from "@chakra-ui/react";
 import { InputForm } from "./Input";
 import { mode } from '@chakra-ui/theme-tools'
 
