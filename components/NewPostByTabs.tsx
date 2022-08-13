@@ -53,9 +53,7 @@ const NewPostByTabs = () => {
             <FormHelperText>Small description about the post.</FormHelperText>
           </FormControl>
         </TabPanel>
-        <TabPanel>
-          <CodeEditor onCodeChange={handleChange} />
-        </TabPanel>
+        <TabPanel>{/* <CodeEditor onCodeChange={handleChange} /> */}</TabPanel>
         <TabPanel>
           <Box
             border="3px dashed"
