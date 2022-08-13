@@ -3,8 +3,8 @@ import {
   ThunkAction
 } from "@reduxjs/toolkit";
 import { authSlice } from "./slices/authSlice";
-import { productsSlice } from "./slices/homeProductsSlice";
-import { pokemonSlice } from "./slices/pokemonSlice";
+// import { productsSlice } from "./slices/homeProductsSlice";
+// import { pokemonSlice } from "./slices/pokemonSlice";
 
 
 export let store: any = null;
