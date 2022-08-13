@@ -1,9 +1,10 @@
-import axios from "axios";
+// import axios from "axios";
 
-const base = "https://fakestoreapi.com";
+// const base = "https://fakestoreapi.com";
 
-const baseAxios = axios.create({
-  baseURL: base,
-});
+// const baseAxios = axios.create({
+//   baseURL: base,
+// });
 
-export default baseAxios;
+// export default baseAxios;
+export let a = {}
