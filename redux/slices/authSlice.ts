@@ -1,10 +1,10 @@
 // import baseAxios from "@baseApi/base";
 import { createAsyncThunk, createSlice } from "@reduxjs/toolkit";
-import { AxiosResponse } from "axios";
+// import { AxiosResponse } from "axios";
 import { onAuthStateChanged } from "firebase/auth";
 import { auth, firestore } from "../../firebase/clientApp";
 import { RootState } from "redux/store";
-import baseAxios from "@baseApi/base";
+// import baseAxios from "@baseApi/base";
 
 
 
