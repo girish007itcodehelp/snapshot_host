@@ -72,7 +72,7 @@ const Header: React.FC = () => {
             {/* input group */}
             <InputGroup>
               <Input type="text" placeholder="Search here..." />
-              <InputRightAddon children={<FiSearch />} />
+              {/* <InputRightAddon children={<FiSearch />} /> */}
             </InputGroup>
           </Box>
           <Box display="flex" alignItems="center" gap="15px">
